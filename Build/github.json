@@ -1,7 +1,7 @@
 {
 "companyName": "Dobrouschek Christian",
 "productName": "Minigame",
-"productVersion": "0.1",
+"productVersion": "1.0",
 "dataUrl": "github.data.unityweb",
 "wasmCodeUrl": "github.wasm.code.unityweb",
 "wasmFrameworkUrl": "github.wasm.framework.unityweb",
